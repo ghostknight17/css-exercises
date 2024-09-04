@@ -1,0 +1,12 @@
+div .text {
+    background-color: hwb(60 0% 0%);
+    color: rgb(255, 0, 0);
+}
+
+.container p {
+    font-size: 20px;
+}
+
+div p {
+    text-align: center;
+}
